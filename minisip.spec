@@ -1,5 +1,5 @@
 Summary:	minisip - SIP user agent with security enhancements
-Summary(pl):	minisip - agent uøytkownika SIP z rozszerzeniami bezpieczeÒstwa
+Summary(pl.UTF-8):   minisip - agent u≈ºytkownika SIP z rozszerzeniami bezpiecze≈Ñstwa
 Name:		minisip
 Version:	0.7.0
 Release:	0.1
@@ -25,10 +25,10 @@ additional security, such as encryption and authentication, by using
 the SRTP (RFC 3711) and MIKEY (RFC 3830) protocols. It uses GTK+ for
 the graphical interface.
 
-%description -l pl
-minisip to telefon programowy uøywaj±cy protoko≥u SIP. UdostÍpnia
-dodatkowe bezpieczeÒstwo, takie jak szyfrowanie i uwierzytelnianie
-poprzez uøywanie protoko≥Ûw SRTP (RFC 3711) i MIKEY (RFC 3830). Uøywa
+%description -l pl.UTF-8
+minisip to telefon programowy u≈ºywajƒÖcy protoko≈Çu SIP. Udostƒôpnia
+dodatkowe bezpiecze≈Ñstwo, takie jak szyfrowanie i uwierzytelnianie
+poprzez u≈ºywanie protoko≈Ç√≥w SRTP (RFC 3711) i MIKEY (RFC 3830). U≈ºywa
 interfejsu graficznego GTK+.
 
 %prep
