@@ -1,5 +1,5 @@
 Summary:	minisip - SIP user agent with security enhancements
-Summary(pl.UTF-8):   minisip - agent użytkownika SIP z rozszerzeniami bezpieczeństwa
+Summary(pl.UTF-8):	minisip - agent użytkownika SIP z rozszerzeniami bezpieczeństwa
 Name:		minisip
 Version:	0.7.0
 Release:	0.1
